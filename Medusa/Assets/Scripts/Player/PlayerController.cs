@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+
     // Move player in 2D space
     public float maxSpeed = 3.4f;
     public float jumpHeight = 6.5f;
@@ -83,12 +84,25 @@ public class PlayerController : MonoBehaviour
         Bounds colliderBounds = mainCollider.bounds;
         Vector3 groundCheckPos = colliderBounds.min + new Vector3(colliderBounds.size.x * 0.5f, 0.1f, 0);
         // Check if player is grounded
-        isGrounded = Physics2D.OverlapCircle(groundCheckPos, 0.23f, layerMask);
+    //    isGrounded = Physics2D.OverlapCircle(groundCheckPos, 0.23f, layerMask);
 
         // Apply movement velocity
         rigidbody2D.velocity = new Vector2((moveDirection) * maxSpeed, rigidbody2D.velocity.y);
 
         // Simple debug
         Debug.DrawLine(groundCheckPos, groundCheckPos - new Vector3(0, 0.23f, 0), isGrounded ? Color.green : Color.red);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        isGrounded = false;
     }
 }
