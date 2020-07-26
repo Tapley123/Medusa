@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: ce9653bb8e95e534c8cfc2bf4eb4b01d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2227219417290338459
+    second: Medusa animation test_0
+  - first:
+      213: -4004166928206700423
+    second: Medusa animation test_1
+  - first:
+      213: 1028151926767477812
+    second: Medusa animation test_2
+  - first:
+      213: 5973321060884418963
+    second: Medusa animation test_3
+  - first:
+      213: 1262793600951723112
+    second: Medusa animation test_4
+  - first:
+      213: -3022599720229864036
+    second: Medusa animation test_5
+  - first:
+      213: -4358363548354685259
+    second: Medusa animation test_6
+  - first:
+      213: -7510862881982440647
+    second: Medusa animation test_7
+  - first:
+      213: 8515561709562516932
+    second: Medusa animation test_8
+  - first:
+      213: -1091514169516889894
+    second: Medusa animation test_9
+  - first:
+      213: -4979233253181252021
+    second: Medusa animation test_10
+  - first:
+      213: 5400144698190399780
+    second: Medusa animation test_11
+  - first:
+      213: 7692826823863398974
+    second: Medusa animation test_12
+  - first:
+      213: 4813497990990438518
+    second: Medusa animation test_13
+  - first:
+      213: -824459411252638666
+    second: Medusa animation test_14
+  - first:
+      213: 8847293473718805757
+    second: Medusa animation test_15
+  - first:
+      213: -3135632085233644638
+    second: Medusa animation test_16
+  - first:
+      213: -7850172000124257736
+    second: Medusa animation test_17
+  - first:
+      213: -2840169958230670769
+    second: Medusa animation test_18
+  - first:
+      213: -6638202930645549167
+    second: Medusa animation test_0
+  - first:
+      213: -9058346760123152457
+    second: Medusa animation test_1
+  - first:
+      213: -62360046092281996
+    second: Medusa animation test_2
+  - first:
+      213: 1927884218692389207
+    second: Medusa animation test_3
+  - first:
+      213: -7292710858495333278
+    second: Medusa animation test_4
+  - first:
+      213: 8156233402055984213
+    second: Medusa animation test_5
+  - first:
+      213: 6510918784342008939
+    second: Medusa animation test_6
+  - first:
+      213: 9031792248652891029
+    second: Medusa animation test_7
+  - first:
+      213: 5491913808322119996
+    second: Medusa animation test_8
+  - first:
+      213: -8564299062178152006
+    second: Medusa animation test_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medusa animation test_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2894
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3ae3fa9d50e3a0800000000000000
+      internalID: -6638202930645549167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_1
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2894
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b78c866d994a4280800000000000000
+      internalID: -9058346760123152457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_2
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2894
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771e745ed3722ff0800000000000000
+      internalID: -62360046092281996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_3
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2894
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759cd378b7831ca10800000000000000
+      internalID: 1927884218692389207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_4
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 2894
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c60c5dc161bca90800000000000000
+      internalID: -7292710858495333278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55409bac013c03170800000000000000
+      internalID: 8156233402055984213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64af16532e6b5a50800000000000000
+      internalID: 6510918784342008939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_7
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 0
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593051a923f575d70800000000000000
+      internalID: 9031792248652891029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_8
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 0
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394a12e282373c40800000000000000
+      internalID: 5491913808322119996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medusa animation test_9
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 0
+        width: 1233
+        height: 2894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab109a8e06f752980800000000000000
+      internalID: -8564299062178152006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35a5a4511cd46394eb90e593276af2c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
